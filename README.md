@@ -8,6 +8,7 @@ Projet réalisé dans le cadre du **M1 MIAGE SBI à Paris 1 Panthéon-Sorbonne**
 - Aliou DIALLO
 - Meryem BERRAMOU
 - Rita HDIDOU
+- Shirel MARCIANO
 
 ## Contenu du projet
 
