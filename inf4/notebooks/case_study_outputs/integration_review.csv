@@ -1,3 +1,0 @@
-order_id,date,store_id,product_id,quantity,unit_price_eur,store_name,city,store_format,store_unresolved,product_name,category,product_unresolved,store_matched,product_matched,integration_issue,order_value_eur
-O0010,2025-04-04,S99,P06,3,29.9,,,,,USB hub,Accessories,,False,True,store_id not in case_stores.csv,89.7
-O0011,2025-04-20,S1,P99,1,39.9,Paris Centre,Paris,Small,,,,,True,False,product_id not in case_products.csv,39.9

@@ -1,8 +1,0 @@
-source_line,order_id,date,store_id,product_id,quantity,unit_price_eur,missing_order_id,missing_store_id,missing_product_id,missing_date,invalid_date,date_outside_window,missing_quantity,invalid_quantity,quantity_not_positive_integer,missing_price,invalid_price,price_not_positive,duplicate_after_normalisation,repeated_order_id,n_issues,review_reasons
-5,O0004,2025-04-31,S1,P03,1,179.00,False,False,False,False,True,False,False,False,False,False,False,False,False,False,1,invalid_date
-6,O0005,2025-04-09,S1,P02,two,19.90,False,False,False,False,False,False,False,True,False,False,False,False,False,False,1,invalid_quantity
-7,O0006,2025-04-04,S1,P06,3,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,1,missing_price
-8,O0007,2025-04-12,S1,P06,-1,29.90,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1,quantity_not_positive_integer
-9,O0008,2025-04-07,S1,P02,2,-19.90,False,False,False,False,False,False,False,False,False,False,False,True,False,False,1,price_not_positive
-10,O0009,2025-04-13,S1,P02,1.5,19.90,False,False,False,False,False,False,False,False,True,False,False,False,False,False,1,quantity_not_positive_integer
-13,O0012,2025-05-02,S1,P01,2,39.90,False,False,False,False,False,True,False,False,False,False,False,False,False,False,1,date_outside_window
