@@ -1,0 +1,10 @@
+step,rows,order_value_eur
+Raw rows in case_sales.csv,252,
+Exact duplicate rows removed,-2,
+Rows after removing exact duplicates,250,
+Invalid or repeated rows kept in sales_review,-7,
+Valid orders (sales_valid),243,27836.4
+Valid orders with store unknown or quarantined (product matched),-1,-89.7
+Valid orders with product unknown or quarantined (store matched),-1,-39.9
+Valid orders with neither reference matched,0,0.0
+Orders in the analysis (matched to both references),241,27706.8
