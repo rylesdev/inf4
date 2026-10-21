@@ -1,0 +1,3 @@
+date,city,country,avg_temp_c,reason
+,London,United Kingdom,8.246,missing observation key
+2000-05-01,London,United Kingdom,999.0,temperature outside -50 to 60 C

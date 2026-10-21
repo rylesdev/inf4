@@ -1,0 +1,11 @@
+date,city,country,avg_temp_c
+2000-01-01,London,United Kingdom,4.6930000000000005
+2000-02-01,London,United Kingdom,6.115
+2000-03-01,London,United Kingdom,
+2000-06-01,London,United Kingdom,15.875
+2000-01-01,Paris,France,3.845
+2000-02-01,Paris,France,
+2000-03-01,Paris,France,7.872000000000001
+2000-04-01,Paris,France,10.067
+2000-05-01,Paris,France,15.451
+2000-06-01,Paris,France,17.666

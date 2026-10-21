@@ -1,0 +1,4 @@
+site_name,ticket_count,duration_count,median_hours,mean_hours
+South desk,98,97,2.38,3.0
+North desk,101,99,2.31,3.01
+Central desk,103,103,2.13,3.15
