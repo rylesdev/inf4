@@ -24,7 +24,7 @@ Le notebook suit les sept étapes de l'énoncé.
 6. La note de synthèse destinée au responsable, avec les limites de l'analyse et les recommandations.
 7. L'export des tableaux et des figures, puis les vérifications de reproductibilité.
 
-Le code est commenté en français, étape par étape.
+Chaque cellule de code est expliquée en français, au-dessus (ce qu'elle fait et pourquoi ce choix) et en dessous (comment lire le résultat).
 
 ### Principaux résultats
 
@@ -172,6 +172,9 @@ inf4/
 │   ├── 03-Data-Cleaning-S3.ipynb
 │   ├── 04-EDA-Visualization-S4.ipynb
 │   ├── 05-Data-Integration-Case-Study.ipynb
+│   ├── sales_by_type.csv          (créé par le notebook 02)
+│   ├── cleaned/                   (créé par le notebook 03)
+│   ├── figures/                   (créé par le notebook 04)
 │   └── case_study_outputs/        (créé par le notebook 05)
 │
 ├── requirements.txt
